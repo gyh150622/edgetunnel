@@ -1,3 +1,5 @@
+# wrangler.toml
+name = 'asdfghj'
 name = "v20251104"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
